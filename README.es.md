@@ -11,6 +11,7 @@ Si quieres saber más sobre como prevenir los eventos: [https://www.youtube.com/
 ## Instrucciones
 
 Tras que la usuaria presione el botón de submit:
+
 1. Asegúrate de detener el flujo del envío utilizando `preventDefault ()`, [aquí hay un poco más sobre preventDefault ()](https://www.youtube.com/watch?v=3SNyh57XSIA).
 2. Después de evitar el envío, asegúrese de que todos los valores de entrada sean correctos y tengan el formato correcto.
 3. Si hay una o más entradas con un valor no válido, muestre un error claro en la parte superior del formulario con un mensaje muy explícito sobre lo que sucedió.
